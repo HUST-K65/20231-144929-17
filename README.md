@@ -1,6 +1,6 @@
 # 20231-144929-17
 
-## Link drive bài tập hằng tuần : 
+## Link drive bài tập hằng tuần :
 ```
 https://drive.google.com/drive/folders/1LzuCH6qZb7lq6eRTjM1g5CR2UH5OUuY_
 ```
